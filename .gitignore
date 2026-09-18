@@ -1,0 +1,6 @@
+.build/
+ConnectMe.app/
+ConnectMe.pkg
+.pkgroot/
+.pkgscripts/
+.component.plist
