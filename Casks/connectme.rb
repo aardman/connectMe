@@ -4,7 +4,7 @@ cask "connectme" do
 
   url "https://github.com/aardman/connectMe/releases/download/v#{version}/ConnectMe.pkg"
   name "ConnectMe"
-  desc "Menu bar network toolkit for viewing connection info and resetting/renewing interfaces"
+  desc "Menu bar network toolkit for connection info and interface resets"
   homepage "https://github.com/aardman/connectMe"
 
   depends_on :macos
